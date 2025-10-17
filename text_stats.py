@@ -16,5 +16,3 @@ print("Words list:", words)
 
 if __name__ == "__main__":
     main()
-
-    kl;kl;k;lk
